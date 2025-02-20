@@ -52,7 +52,7 @@ def get_brand_data(brand, brand_url):
 
 
 
-    openai.api_key = "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"
+    openai.api_key = ""
 
 
 
